@@ -1,4 +1,4 @@
-Mirko https://mirko.in.ua team took this extension for further support and development
+Mirko https://mirko.in.ua team took this extension for further support and development test
 
 Newsletter
 ==========
